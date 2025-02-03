@@ -1,7 +1,7 @@
 enforce_secure_profile: false
 listeners:
-- query_port: 25577
-  motd: '&1Another Bungee server'
+- query_port: 25566
+  motd: Official Georgetown HARDCORE Server!
   tab_list: GLOBAL_PING
   query_enabled: false
   proxy_protocol: false
@@ -46,5 +46,5 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: localhost:25565
+    address: localhost:25566
     restricted: false
